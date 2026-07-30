@@ -48,10 +48,10 @@ confirming the system generalizes beyond its training data.
 ## Setup & Usage
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ml-algorithm-selector.git
-cd ml-algorithm-selector
+git clone https://github.com/samarthp11/ml_algo_selector.git
+cd ml-algo-selector
 pip install -r requirements.txt
-jupyter notebook ml_algorithm_selector.ipynb
+jupyter notebook ml_algo_selector.ipynb
 ```
 
 Run all cells in order. The final cell prints the meta-classifier's predicted best
